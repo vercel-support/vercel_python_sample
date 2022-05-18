@@ -1,0 +1,8 @@
+requests
+uvicorn
+fastapi
+starlette
+pydantic
+setuptools
+dnspython
+rich
