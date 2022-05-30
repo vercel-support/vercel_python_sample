@@ -10,5 +10,5 @@ logger = get_logger(__name__)
 @router.get("/token/{token}")
 async def find_user_token(
     token: str):
-    logger.info(f"return user per token {token}")
+    logger.info(f"return user per tokenn {token}")
 
